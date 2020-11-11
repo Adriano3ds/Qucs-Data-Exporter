@@ -1,0 +1,10 @@
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\bin\Release\Qucs Data Exporter.exe.config
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\bin\Release\Qucs Data Exporter.exe
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\bin\Release\Qucs Data Exporter.pdb
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\obj\Release\Qucs Data Exporter.csprojAssemblyReference.cache
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\obj\Release\Qucs_Data_Exporter.Form1.resources
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\obj\Release\Qucs_Data_Exporter.Properties.Resources.resources
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\obj\Release\Qucs Data Exporter.csproj.GenerateResource.cache
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\obj\Release\Qucs Data Exporter.csproj.CoreCompileInputs.cache
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\obj\Release\Qucs Data Exporter.exe
+C:\Users\jradr\source\repos\Qucs Data Exporter\Qucs Data Exporter\obj\Release\Qucs Data Exporter.pdb
